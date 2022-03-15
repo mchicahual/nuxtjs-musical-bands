@@ -2,7 +2,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+[Nuxt](https://github.com/nuxt/nuxt.js) The Intuitive Vue Framework
 
 ### Features:
 ```
